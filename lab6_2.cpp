@@ -23,6 +23,7 @@ double  showResult(double vec_l,double vec_d){
     cout <<"Length of the resultant vector = "<< vec_l;
     cout <<"\nDirection of the resultant vector (deg) ="<<vec_d; 
     cout <<"\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%";
+    return 0;
 }
 
 
